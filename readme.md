@@ -16,7 +16,11 @@ $ npm i -g alfred-slack-status
 
 ## Usage
 
-### Save slack tokens
+### Get Slack tokens
+
+Log to your slack on the web, then go here: https://api.slack.com/custom-integrations/legacy-tokens and generate a token.
+
+### Save Slack tokens
 
 <img src="https://cloud.githubusercontent.com/assets/1744446/25580054/67b07962-2eb8-11e7-84ff-eab135dca671.png" alt="token" width=694>
 
